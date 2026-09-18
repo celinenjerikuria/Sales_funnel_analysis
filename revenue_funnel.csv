@@ -1,0 +1,2 @@
+total_visitors,total_buyers,total_orders,ROUND(total_revenue),avg_order_value,avg_revenue_per_buyer,avg_revenue_per_visitor
+5000,826,826,87975,106.51,106.51,17.6

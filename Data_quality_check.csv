@@ -1,0 +1,6 @@
+event_type,total_rows,rows_with_amount,rows_missing_amount
+page_view,5000,5000,0
+add_to_cart,1553,1553,0
+checkout_start,1103,1103,0
+payment_info,899,899,0
+purchase,826,826,0
